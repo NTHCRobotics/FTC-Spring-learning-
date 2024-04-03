@@ -49,7 +49,7 @@ public class Arm_code extends OpMode {
     //private DigitalChannel intakeSensor;
 
     //Motors
- 
+
 
     private Servo flip;
     //private DcMotorEx Insertnamehere
